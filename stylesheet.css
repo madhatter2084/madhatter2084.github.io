@@ -1,0 +1,68 @@
+html {
+  margin:0 auto;
+}
+
+.header {
+  padding: 60px;
+  background-image: url(USMC.jpg);
+  color: white;
+  font-size: 30px;
+  width: 840px;
+  height: 135px;
+  position: relative;
+  left:0;
+}
+
+
+h1 {color: yellow;}
+
+h2 {color: orange;}
+
+h3 {color: yellow;}
+
+body {
+    background-image: url("background_tile.jpg");
+    background-repeat: repeat; 
+    color: #C0C0C0;
+    background-size: 100px 100px;
+    text-align: center;
+    margin-left:200px;
+    margin-right:200px
+}
+
+
+li:first-letter{
+  display:block;
+  margin:1px;
+  color:#c0c0c0;
+  font-size:300%;
+}
+
+
+
+     a:link {
+        color: orange;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: orange;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+
+
+      
