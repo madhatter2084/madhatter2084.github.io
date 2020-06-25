@@ -3,14 +3,13 @@ html {
 }
 
 .header {
-  padding: 60px;
-  background-image: url(USMC.jpg);
-  color: white;
-  font-size: 30px;
-  width: 840px;
-  height: 135px;
-  position: relative;
-  left:0;
+  max-width: 600px;
+  margin:0 auto;
+}
+
+.myimg {
+  max-width: 100%;
+  height: auto;
 }
 
 
